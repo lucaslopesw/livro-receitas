@@ -4,3 +4,4 @@
 - bolacha
 - leite condensado
 - margarina
+- ovos
